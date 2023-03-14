@@ -1,0 +1,1 @@
+# kctc-military-training-log
