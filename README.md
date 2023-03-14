@@ -1,1 +1,1 @@
-# kctc-military-training-log
+## 23-2차훈련
